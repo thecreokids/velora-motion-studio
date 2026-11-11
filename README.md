@@ -1,17 +1,19 @@
-# VELORA MOTION STUDIO
+# RAPID MOTION STUDIO
 
-**The Future of Visual Storytelling.**
+**THE ART OF MOVING IDEAS.**
 
 Premium AI-powered creative production agency website — cinematic video production,
 advertising creatives, product commercials, and visual marketing solutions for brands,
 businesses, startups, creators, and agencies.
 
-> **You provide the product. We create the advertisement.
-> No traditional production shoot required.**
+> **YOU BRING THE PRODUCT. WE BRING THE VISION.**
+
+_Formerly VELORA MOTION STUDIO — rebranded 2026-11-11. Official logo: the orange
+"RMS" monogram supplied by the owner (see `docs/REBRAND_BRIEF.md`)._
 
 ## What this project is
 
-A complete, production-ready, admin-manageable website for VELORA MOTION STUDIO:
+A complete, production-ready, admin-manageable website for RAPID MOTION STUDIO:
 
 - **Public site** — Home, Our Work (portfolio), Services, How It Works, About Us,
   Contact, plus Privacy Policy and Terms & Conditions.
@@ -61,5 +63,6 @@ frosted navigation, backdrop blur, layered translucent panels, soft shadows.
 .
 ├── README.md
 └── docs/
-    └── MASTER_BRIEF.md   # Full master website development prompt / specification
+    ├── MASTER_BRIEF.md   # Original master website development prompt / specification
+    └── REBRAND_BRIEF.md  # RAPID MOTION STUDIO brand identity & refinement brief
 ```
